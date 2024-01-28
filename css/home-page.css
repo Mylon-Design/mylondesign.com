@@ -30,7 +30,7 @@ header, nav{
 
 .menu:hover {
     color: brown;
-    text-decoration: underline;
+    text-decoration: none;
     box-shadow: 2px 2px 0px black;
     transition-duration: .2s;
 }
